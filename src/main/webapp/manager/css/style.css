@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+#table .label{
+	width: 90%;
+	height: 46px;
+	background-color: #eee;
+	color: #666;
+	border: 1px solid #666;
+	border-radius: 10px;
+	font-size: 30px;
+	padding: 0 12px;
+	line-height:20px;
+	outline: none;
+	display: block;
+	float: left;
+}
